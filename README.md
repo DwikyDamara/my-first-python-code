@@ -1,2 +1,2 @@
 # my-first-python-code
-First experience 
+First experience learning to code Python
